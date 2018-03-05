@@ -96,6 +96,20 @@
   text-align:center;
   line-height:20px;
 }
+._btn-primary {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-primary_hover {
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
 ._btn-link {
   font-family:'HelveticaNeue', 'Helvetica Neue';
   font-weight:400;
@@ -148,6 +162,22 @@
   font-size:14px;
   text-align:left;
   line-height:15px;
+}
+._modal-dialogue_header {
+  font-family:'HelveticaNeue-Bold', 'Helvetica Neue Bold', 'Helvetica Neue';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  line-height:25px;
+}
+._modal-dialogue_content {
+  font-family:'HelveticaNeue-Bold', 'Helvetica Neue Bold', 'Helvetica Neue';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+._modal-backdrop {
 }
 .icon {
 }
