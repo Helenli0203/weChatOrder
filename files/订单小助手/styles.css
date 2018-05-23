@@ -10847,5 +10847,36 @@
   width:109px;
   white-space:nowrap;
 }
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 07c94a8... 1
+=======
+#u728_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:738px;
+  height:54px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u728 {
+  position:absolute;
+  left:33px;
+  top:2337px;
+  width:738px;
+  height:54px;
+}
+#u729 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:738px;
+  word-wrap:break-word;
+}
+>>>>>>> parent of 642d2c7... 1
